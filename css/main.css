@@ -11,6 +11,10 @@
   font-size: 1.75em;
  }
 
+ p {
+  padding: 10px;
+ }
+
  .title {
   position: absolute;
   top: 0;
